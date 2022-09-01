@@ -1,0 +1,25 @@
+# %%
+print("hello world")
+
+# %%
+print(1+1)
+
+# %% [markdown]
+# #上面是一个测试函数
+
+# %%
+print("test")
+
+# %%
+print("test")
+
+# %% [markdown]
+# #这是一号标题
+
+# %% [markdown]
+# ##这是二号标题
+
+# %%
+
+
+
